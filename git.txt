@@ -1,0 +1,4 @@
+FIrst run: git init
+
+
+then: go to source control option in vs code

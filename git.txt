@@ -1,4 +1,4 @@
-FIrst run: git init
+FIrst : git init
 
 
 then: go to source control option in vs code
@@ -6,10 +6,10 @@ then: go to source control option in vs code
 
 then: if you want to add all files 
 
-git add --all
+then: git add --all
 
-git commit -m "your message here"
+then: git commit -m "your message here"
 
 
-git push 
+then: git push 
 

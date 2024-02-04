@@ -9,4 +9,6 @@ const students = [
   "virat koli",
 ];
 
-console.log(students);
+const student = students.map((stud) => {
+  console.log("Hello" + " " + stud);
+});
